@@ -1,0 +1,169 @@
+@media only screen and (min-width: 1600px) {
+  .certisection .container, .whsectapwap .container, .customsec .container {
+    max-width: 1430px;
+  }
+  header .container, .banner .container, .inner-section .container, footer .container {
+    max-width: 1510px;
+  }
+}
+@media only screen and (max-width: 1600px) {
+  .managesection h4 {
+    margin-bottom: 10px;
+  }
+  .managesection h2 {
+    margin-top: 10px;
+  }
+  .whoimage {
+    height: 900px;
+  }
+}
+@media only screen and (max-width: 1199px) {
+  .cursor {
+    display: none;
+  }
+  .banner {
+    padding: 58px 20px 90px;
+    min-height: 50px;
+  }
+  .banner-content {
+    margin-top: 60px;
+  }
+  .banner-content h1 {
+    font-size: 40px;
+    line-height: 52px;
+  }
+  .banner-content h1 br {
+    display: none;
+  }
+  .banner-content h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .banner-content h2 br {
+    display: none;
+  }
+  .inner-section {
+    padding: 50px 20px;
+  }
+  .mgsecone {
+    width: 100%;
+  }
+  .mgsectwo {
+    width: 100%;
+  }
+  .mgsecthree {
+    width: 100%;
+    left: 0;
+    margin-top: 10px;
+  }
+  .managesection h3 {
+    right: 0;
+  }
+  .managesection:hover .mgsecthree {
+    left: 0;
+  }
+  .managesection {
+    margin-top: 10px;
+  }
+  .managesection:hover .mgsectwo {
+    transform: scale(0.95);
+  }
+  .secbanner {
+    padding: 100px 20px;
+  }
+  .managesection h2 {
+    padding-right: 0;
+  }
+  .offersection {
+    padding: 40px 20px;
+  }
+  .offcondec h3 {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .offcondec span {
+    margin-right: 0;
+  }
+  .whsectapwap {
+    padding: 40px 20px;
+  }
+  .whoimage {
+    width: 100%;
+    height: auto;
+  }
+  .whoimage img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+  .whosection {
+    display: block;
+  }
+  .whocontent {
+    width: 100%;
+  }
+  .tacklepack {
+    margin-bottom: 70px;
+  }
+  .testabox {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .customsec h2:after {
+    display: none;
+  }
+  .customsec {
+    padding: 80px 20px;
+  }
+  .slidersev .owl-theme .owl-nav {
+    position: static;
+  }
+  .slidersev .owl-carousel .owl-nav button.owl-prev {
+    float: none;
+    margin-left: 0;
+    display: inline-block;
+    height: 40px;
+  }
+  .slidersev .owl-carousel .owl-nav button.owl-next {
+    float: none;
+    margin-right: 0;
+    display: inline-block;
+    height: 40px;
+  }
+  .subqutbtn {
+    padding: 15px 20px;
+  }
+  .formcontbt {
+    padding: 20px 0;
+  }
+  .footerlogo {
+    min-height: 50px;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+  footer {
+    text-align: center;
+  }
+  .phsecpack {
+    display: inline-block;
+    text-align: center;
+  }
+  .embgcpck {
+    text-align: center;
+  }
+  footer li {
+    margin: 0 5px;
+  }
+  footer {
+    padding-top: 100px;
+  }
+  .tacklepack h2:after {
+    display: none;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .sapbox {
+    min-height: 50px;
+  }
+}

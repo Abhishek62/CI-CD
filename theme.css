@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src: url('../fonts/Montserrat-Regular.eot');
+  src: url('../fonts/Montserrat-Regular.eot') format('embedded-opentype'), url('../fonts/Montserrat-Regular.woff') format('woff'), url('../fonts/Montserrat-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url('../fonts/Montserrat-Bold.eot');
+  src: url('../fonts/Montserrat-Bold.eot') format('embedded-opentype'), url('../fonts/Montserrat-Bold.woff') format('woff'), url('../fonts/Montserrat-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat-Black';
+  src: url('../fonts/Montserrat-Black.eot');
+  src: url('../fonts/Montserrat-Black.eot') format('embedded-opentype'), url('../fonts/Montserrat-Black.woff') format('woff'), url('../fonts/Montserrat-Black.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat-Light';
+  src: url('../fonts/Montserrat-Light.eot');
+  src: url('../fonts/Montserrat-Light.eot') format('embedded-opentype'), url('../fonts/Montserrat-Light.woff') format('woff'), url('../fonts/Montserrat-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Archivo-Regular';
+  src: url('../fonts/Archivo-Regular.eot');
+  src: url('../fonts/Archivo-Regular.eot') format('embedded-opentype'), url('../fonts/Archivo-Regular.woff') format('woff'), url('../fonts/Archivo-Regular.ttf') format('truetype');
+}
+body {
+  font-family: 'Montserrat-Regular';
+}
+.banner-content h1, .banner-content h2 span, .sympsection h1, .treatbg h1, .managesection h2, .managesection h4 span, .secbanner h3, .sapbox h2, .offersection h1, .tacklepack h2, .customsec h2, .contact-cont h1, footer h2, footer h4, .bluebgt, .morebt {
+  font-family: 'Montserrat-Bold';
+}
+.tacklepack p, .tacklepack ul, footer p {
+  font-family: 'Montserrat-Light';
+}
+.formcontbt .form-control {
+  font-family: 'Archivo-Regular';
+}
